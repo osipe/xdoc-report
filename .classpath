@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/asm-3.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/fr.opensagres.xdocreport.converter-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/fr.opensagres.xdocreport.core-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/fr.opensagres.xdocreport.document-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/fr.opensagres.xdocreport.document.docx-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/fr.opensagres.xdocreport.document.odt-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/fr.opensagres.xdocreport.document.tools-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/fr.opensagres.xdocreport.remoting.resources-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/fr.opensagres.xdocreport.remoting.resources.services.client-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/fr.opensagres.xdocreport.template-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/fr.opensagres.xdocreport.template.freemarker-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/fr.opensagres.xdocreport.template.velocity-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/freemarker-2.3.20.jar"/>
+	<classpathentry kind="lib" path="lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/neethi-3.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="lib/stax2-api-3.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="lib/woodstox-core-asl-4.0.8.jar"/>
+	<classpathentry kind="lib" path="lib/wsdl4j-1.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/xml-resolver-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/xmlschema-core-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-oro.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
